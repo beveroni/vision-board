@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(96, 149, 99);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: aquamarine;
+  text-shadow: 1px 2px 3px #5b5b5b;
+}
+
+p {
+  font-style: italic;
+}
+
+ul,
+ol {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 500px;
+}
+
+.loga {
+  width: 1em;
+  height: 1em;
+}
+
+.motivace {
+  border-radius: 15%;
+}
+
+a {
+  color: #063e04;
+  font-size: large;
+  text-decoration: none
+}
+
+a:hover {
+  color: #de08e6;
+}
